@@ -1,13 +1,12 @@
 <p align="center"><img src="banner.svg" width="100%" alt="Paulo Henrique — código, ideias e possibilidades" /></p>
 
+
 <h1 align="center">Oi, eu sou o Paulo 👋</h1>
 <p align="center"><b>Transformando ideias em interfaces, experiências e código.</b><br/>Guanambi, Bahia · Brasil 🇧🇷</p>
 
-### 🧑‍💻 Por trás do código
-
-Sou **Paulo Henrique**. Meus projetos exploram **acessibilidade, visualização de algoritmos e aplicações desktop**. No **Sense**, participo de um projeto acadêmico da **UniFG** que ajuda crianças a expressarem sentimentos e desconfortos por meio de uma interface visual.
 
 ### ⚡ Linguagens nos meus projetos
+
 
 <p>
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white" alt="GDScript" />
@@ -20,15 +19,21 @@ Sou **Paulo Henrique**. Meus projetos exploram **acessibilidade, visualização 
 </p>
 <sub>Tecnologias presentes nos meus repositórios públicos, incluindo os projetos em forks.</sub>
 
+
 ### 🛠️ Minha caixa de ferramentas
+
 
 <p><img src="https://skillicons.dev/icons?i=godot,figma,electron,vite,git,github&amp;theme=dark" alt="Godot, Figma, Electron, Vite, Git e GitHub" /></p>
 
+
 **Também nos projetos:** Java Swing · NetBeans · Emscripten / WebAssembly · Android SDK
+
 
 ---
 
+
 ### 🚀 Laboratório de projetos
+
 
 <table><tr><td>
 <h3>💜 Sense · dar voz ao que se sente</h3>
@@ -37,6 +42,7 @@ Sou **Paulo Henrique**. Meus projetos exploram **acessibilidade, visualização 
 <p><b>GDScript · Godot · Figma</b><br/><sub>Android e Windows · Projeto acadêmico UniFG</sub></p>
 <a href="https://github.com/paulo11r/sense"><b>Explorar código ↗</b></a> · <a href="https://github.com/paulo11r/sense/releases">Ver versões</a>
 </td></tr></table>
+
 
 <table><tr>
 <td width="50%" valign="top">
@@ -59,11 +65,14 @@ Sou **Paulo Henrique**. Meus projetos exploram **acessibilidade, visualização 
 </td>
 </tr></table>
 
+
 ### 🧭 O que conecta esses projetos
+
 
 **Interfaces que comunicam.** No Sense, sentimentos viram escolhas visuais. No AutoSorter, dados viram movimento. No A3-Project, informações escolares ganham telas e organização.
 
+
 ---
 
-<p align="center"><code>ideia → código → experiência</code><br/><br/><sub>Feito de curiosidade e commits.</sub></p>
 
+<p align="center"><code>ideia → código → experiência</code><br/><br/><sub>Feito de curiosidade e commits.</sub></p>
